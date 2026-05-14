@@ -1,4 +1,4 @@
-.github/workflows/deploy.yml
+.github/workflows/pages.yml
 
 # Deploy /dist to GitHub Pages
 name: Deploy to GitHub Pages
