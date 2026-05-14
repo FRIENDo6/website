@@ -10,7 +10,7 @@ const { activeTab = "" } = Astro.props;
   <div class="navbar-container">
     <a href="/" class="logo">
       <img src="/fo6.svg" alt="FRIENDo6 logo" width="36" height="36" />
-      FRIENDo6
+      friendo6
     </a>
     <ul class="nav-links">
       <li><a href="/" class={activeTab === "home" ? "active" : ""}>Home</a></li>
@@ -25,14 +25,14 @@ const { activeTab = "" } = Astro.props;
   nav {
     background: #ffffff;
     border-bottom: 2px solid #c8dff0;
-    padding: 1rem 2rem;
+    padding: 1rem 0rem;
     position: sticky;
     top: 0;
     z-index: 100;
     box-shadow: 0 2px 12px rgba(74, 168, 200, 0.15);
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: right;
   }
 
   .navbar-container {
@@ -49,9 +49,7 @@ const { activeTab = "" } = Astro.props;
     align-items: center;
     margin: 0;
     padding: 0;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    margin-left: auto;
   }
 
   .logo {
@@ -63,7 +61,7 @@ const { activeTab = "" } = Astro.props;
     align-items: center;
     gap: 0.5rem;
     transition: color 0.3s ease;
-    padding-left: 0.5rem;
+    padding-left: 0rem;
   }
 
   .logo img {

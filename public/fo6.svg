@@ -7,9 +7,9 @@
    viewBox="0 0 150 150"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="fo6_withwhitebg.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="fo6_whitebg.png"
+   inkscape:export-xdpi="97.874664"
+   inkscape:export-ydpi="97.874664"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="fo6.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.95371126"
-     inkscape:cx="308.2694"
+     inkscape:cx="306.6966"
      inkscape:cy="250.07569"
      inkscape:window-width="1920"
      inkscape:window-height="974"
@@ -84,12 +84,6 @@
        inkscape:randomized="0"
        d="m 25.894319,58.45839 -8.807864,-5.538256 0.392339,-10.396962 9.200202,-4.858706 8.807864,5.538256 -0.392339,10.396962 z"
        transform="matrix(1.290442,-0.04876911,0.04876911,1.290442,62.907197,61.592063)" />
-    <circle
-       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.489813;stroke-miterlimit:1.5;stroke-dashoffset:18.4;paint-order:stroke markers fill"
-       id="circle8"
-       cx="99.737083"
-       cy="28.930595"
-       r="14.163219" />
     <rect
        style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.12369;stroke-miterlimit:1.5;stroke-dashoffset:18.4;paint-order:stroke markers fill"
        id="rect8"
@@ -97,5 +91,23 @@
        height="23.327656"
        x="40.47348"
        y="64.0037" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-rule:evenodd;stroke-width:0.529167;stroke-miterlimit:1.5;stroke-dashoffset:18.4;paint-order:stroke markers fill"
+       id="path2"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="100.70527"
+       sodipodi:cy="12.761549"
+       sodipodi:r1="17.380627"
+       sodipodi:r2="8.6903124"
+       sodipodi:arg1="1.0714496"
+       sodipodi:arg2="2.1186472"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 109.02802,28.019924 83.329753,12.340075 109.75803,-2.0753517 Z"
+       inkscape:transform-center-x="4.1613748"
+       inkscape:transform-center-y="0.21073727"
+       transform="translate(6.1033497,13.871249)" />
   </g>
 </svg>
